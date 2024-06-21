@@ -6,7 +6,7 @@
 .login-container{
     display: flex;
     justify-content: center;
-    margin-top: 10%;
+    margin-top: 6%;
 }
 
 .container2{
@@ -83,4 +83,25 @@
 .forgot-pass{
     margin-top: 10px;
     margin-left: 42px;
+}
+
+.container-logo{
+    height: 120px;
+    border-left: 1px solid;
+}
+
+.logo{
+    margin-left: 20px;
+    margin-top: 42px;
+    font-weight: 100;
+}
+
+.div-img{
+    margin-right: 20px;
+}
+
+.container{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
 }

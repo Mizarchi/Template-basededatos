@@ -101,34 +101,7 @@ a {
 
 }
 
-.text-precio {
 
-  display: flex;
-  justify-content: space-between;
-}
-
-.text-precio2 {
-  padding-left: 10px;
-  padding-top: 13px;
-  font-size: 18px;
-}
-
-.text-precio3 {
-  padding-right: 10px;
-  padding-top: 13px;
-  font-size: 18px;
-}
-
-.anadir {
-  height: 36px;
-  width: 100px;
-  margin-left: 10px;
-  margin-top: 10px;
-  font-size: 18px;
-  border-radius: 10px;
-  background: #D9D9D9;
-  border: 0px;
-}
 
 .img-proyectos {
   height: 45px;
@@ -200,23 +173,3 @@ ul {
   height: 52px;
 }
 
-scroll-container {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-}
-
-scroll-container {
-  display: block;
-  width: 350px;
-  height: 200px;
-  overflow-y: scroll;
-  scroll-behavior: smooth;
-}
-scroll-page {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  font-size: 5em;
-}
